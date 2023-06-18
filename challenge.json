@@ -1,0 +1,23 @@
+{
+    "challenges": [
+      {
+        "name": "Student Grade Calculator",
+        "filename": "student-grade-calculator.js",
+        "description": "Calculates the grade based on the input marks of a student.",
+        "usage": "node student-grade-calculator.js"
+      },
+      {
+        "name": "Speed Detector",
+        "filename": "speed-detector.js",
+        "description": "Determines if a car's speed exceeds the speed limit and calculates demerit points.",
+        "usage": "node speed-detector.js"
+      },
+      {
+        "name": "Net Salary Calculator",
+        "filename": "net-salary-calculator.js",
+        "description": "Calculates an individual's net salary based on basic salary and benefits.",
+        "usage": "node net-salary-calculator.js"
+      }
+    ]
+  }
+  
